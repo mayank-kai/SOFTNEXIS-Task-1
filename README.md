@@ -57,13 +57,11 @@ This project involves cleaning and preprocessing the `1000-Supermarket-Sales.csv
 
 ---
 
-## 📊 Sample Visualization
+## 📊  Visualization
 
 ```python
 # Total sales by city
 df.groupby('city')['total'].sum().plot(kind='bar', title='Total Sales by City')
-
-![Image](https://github.com/user-attachments/assets/bdb8cb16-49c5-4b49-b6ba-4945fe466a35)
 
 
 💾 Output
