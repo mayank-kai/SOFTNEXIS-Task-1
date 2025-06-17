@@ -62,7 +62,7 @@ This project involves cleaning and preprocessing the `1000-Supermarket-Sales.csv
 ```python
 # Total sales by city
 df.groupby('city')['total'].sum().plot(kind='bar', title='Total Sales by City')
-![image alt](https://github.com/mayank-kai/SOFTNEXIS-Task-1/blob/eaa9f2be3f0d6765affcdcefd8bb3d95c5edfa63/Screenshot%202025-06-17%20212241.png)
+![Image](https://github.com/user-attachments/assets/bdb8cb16-49c5-4b49-b6ba-4945fe466a35)
 
 💾 Output
 The final cleaned dataset is saved as:
