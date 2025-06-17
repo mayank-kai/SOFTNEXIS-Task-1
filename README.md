@@ -6,7 +6,7 @@ Data Cleaning & and; Preprocessing
 This project involves cleaning and preprocessing the `1000-Supermarket-Sales.csv` dataset to prepare it for downstream analysis or machine learning tasks. The dataset contains transaction-level sales data from a fictional supermarket chain.
 
 ---
-
+![Image](https://github.com/user-attachments/assets/bdb8cb16-49c5-4b49-b6ba-4945fe466a35)
 ## 📁 Dataset Overview
 
 **Filename**: `1000-Supermarket-Sales.csv`
