@@ -1,5 +1,5 @@
 # SOFTNEXIS-Task-1
-Data Cleaning & and; Preprocessing
+Data Cleaning & and Preprocessing
 
 # 🧼 1000 Supermarket Sales — Data Cleaning & Preprocessing
 
